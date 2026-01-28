@@ -1,17 +1,21 @@
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
 
-<h1 align="center">Hi, I'm Miguel Ruiz <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 align="center">A passionate Frontend Developer and student from Perú 🇵🇪</h3>
+<h1 align="center">Hi, I'm Miguel Ruiz<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h3 font-size="20" align="center">A passionate fronted developer and a student from Perú.</h3>
 
-<hr>
 
-- 📚 **Future Frontend Developer** en formación.
-- ✨ **Experimentando con React** para crear interfaces dinámicas y mejorar mis habilidades en JavaScript.
-- 🔍 **Explorando el mundo de JavaScript** y las APIs modernas.
+- 📚 Future Frontend Developer en formación. <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="40%" align="right" />
+
+- ✨ Experimentando con React para crear interfaces dinámicas y mejorar mis habilidades en JavaScript.
+
+- 🔍 Explorando el mundo de JavaScript y las APIs modernas.
+
 - 🛠️ En este perfil encontrarás mis prácticas, retos de lógica y proyectos de estudio. 📈
+
 - 📂 Mis repositorios son el reflejo de mi evolución: desde el primer 'Hello World' hasta sistemas complejos.
+
 - 🎨 Buscando el equilibrio perfecto entre un diseño atractivo y una funcionalidad robusta.
 
 <hr>
