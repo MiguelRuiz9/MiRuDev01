@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img style="width:8rem; height:auto; margin-top:-90px; border-radius: 50%; border: 3px solid #00FF41; box-shadow: 0 0 15px #00FF41;" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+  <img style="width:8rem; height:auto; margin-top:-90px; border-radius: 50%; border: 3px solid #00FF41;" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
 
 <h1 align="center">
@@ -24,35 +24,36 @@
 
 <h3 align="center">Tech Stack & Tools:</h3>
 
-<h4 align="center"> <img src="https://img.icons8.com/matrix/26/00FF41/code-fork.png"/> Frontend Development </h4>
+<h4 align="center"> 💻 Frontend Development </h4>
 <p align="center">
-  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/> </a>
-  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/> </a>
-  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/> </a>
-  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/> </a>
-  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/> </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
 </p>
 
-<h4 align="center"> <img src="https://img.icons8.com/matrix/26/00FF41/database.png"/> Backend & Database </h4>
+<h4 align="center"> 🔑 Backend & Database </h4>
 <p align="center">
-  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/> </a>
-  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/> </a>
-  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/> </a>
-  <a href="#"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50"/> </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,postgres" />
 </p>
 
-<h4 align="center"> <img src="https://img.icons8.com/matrix/26/00FF41/console.png"/> Programming & OS </h4>
+<h4 align="center"> 🛠️ Programming & OS </h4>
 <p align="center">
-  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/> </a>
-  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/> </a>
-  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/> </a>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,linux" />
 </p>
 
 <hr>
 
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Establish Connection </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguel-angel-ruiz-moncada-605a613a1/" target="_blank"> <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"> </a>
-  <a href="https://www.instagram.com/ruizmoncadam/" target="_blank"> <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"> </a>
-  <a href="https://www.youtube.com/c/ZeeiDeveloper" target="_blank"> <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png"> </a>
+  <a href="https://www.linkedin.com/in/miguel-angel-ruiz-moncada-605a613a1/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"> 
+  </a>
+  <a href="https://www.instagram.com/ruizmoncadam/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png"> 
+  </a>
+  <a href="https://www.youtube.com/c/ZeeiDeveloper" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png"> 
+  </a>
+</p>
+
+<p align="center">
+  Credit: <a href="https://github.com/MiRuDev01">MiRuDev01</a>
 </p>
