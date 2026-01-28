@@ -1,65 +1,48 @@
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Miguel%20Ruiz&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">Hi, I'm Miguel Ruiz <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 align="center">A passionate Frontend Developer and student from Perú 🇵🇪</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/miguel-angel-ruiz-moncada-605a613a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ruizmoncadam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/ZeeiDeveloper"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
 <hr>
 
-- 📚 **Future Frontend Developer** en formación.
-- ✨ **Experimentando con React** para crear interfaces dinámicas y mejorar mis habilidades en JavaScript.
-- 🔍 **Explorando el mundo de JavaScript** y las APIs modernas.
-- 🛠️ En este perfil encontrarás mis prácticas, retos de lógica y proyectos de estudio. 📈
-- 📂 Mis repositorios son el reflejo de mi evolución: desde el primer 'Hello World' hasta sistemas complejos.
-- 🎨 Buscando el equilibrio perfecto entre un diseño atractivo y una funcionalidad robusta.
+### 💫 Sobre mí
+Soy un desarrollador frontend apasionado por la creación de interfaces dinámicas y funcionales. Mi enfoque actual es perfeccionar el ecosistema de **React** y fortalecer mi lógica en el backend.
+
+- 🎓 **Formación:** Frontend Developer & Estudiante.
+- ⚡ **Enfoque:** React.js, JavaScript moderno y Arquitectura de Software.
+- 🛠️ **Pasión:** Convertir ideas complejas en experiencias de usuario simples.
 
 <hr>
 
-<h3 align="center">Languages and Tools:</h3>
+### 🚀 Stack Tecnológico
 
-<h4 align="center">Frontend Development</h4>
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55"/> </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
+      <br><b>Frontend</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,postgres" />
+      <br><b>Backend & DB</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,linux" />
+      <br><b>Languages & OS</b>
+    </td>
+  </tr>
+</table>
 
-<h4 align="center">Backend & Database</h4>
-<p align="center">
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="55" height="55"/> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="55"/> </a>
-</p>
-
-<h4 align="center">Programming & OS</h4>
-<p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> </a>
-</p>
-
-<br>
 <hr>
 
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me 🤝 </h3>
-
+### 📊 Actividad en GitHub
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguel-angel-ruiz-moncada-605a613a1/" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
-  </a>
-  <a href="https://www.instagram.com/ruizmoncadam/" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
-  </a>
-  <a href="https://www.youtube.com/c/ZeeiDeveloper" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png">
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelRuiz9&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
