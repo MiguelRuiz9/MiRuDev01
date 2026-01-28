@@ -61,7 +61,7 @@
   <a href="https://www.instagram.com/ruizmoncadam/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
   </a>
-  <a href="https://www.youtube.com/c/ZeeiDeveloper" target="_blank">
+  <a href="https://www.youtube.com/ruizmoncadam" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png">
   </a>
 </p>
