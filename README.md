@@ -1,5 +1,9 @@
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Miguel%20Ruiz&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20&%20Student&descAlignY=55&descSize=20" />
+</p>
+
+<p align="center">
+  <img style="width:8rem; height:auto; margin-top:-100px; border-radius: 50%; border: 5px solid white;" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
 
 <h1 align="center">Hi, I'm Miguel Ruiz <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
