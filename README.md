@@ -14,7 +14,7 @@
 
 - 🛠️ En este perfil encontrarás mis prácticas, retos de lógica y proyectos de estudio. 📈
 
-- z
+- 📂 Mis repositorios son el reflejo de mi evolución: desde el primer 'Hello World' hasta sistemas complejos.
 
 - z
 
@@ -60,6 +60,13 @@
 
 </p>
 
-
+### 🛠️ Tecnologías y Herramientas
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 Credit: [MiRuDev01](https://github.com/MiRuDev01)
